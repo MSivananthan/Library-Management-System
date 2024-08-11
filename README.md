@@ -118,7 +118,3 @@ For any inquiries or contributions, feel free to reach out:
 
 [GitHub Profile](https://github.com/MSivananthan)
 
-Thank you for visiting the Library Management System repository! Your feedback and contributions are welcome.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/24505429/ce82e39d-024c-498b-937b-b60272bc5d91/Library-Management-System.pdf
