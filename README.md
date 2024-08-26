@@ -60,6 +60,7 @@ Here are some key SQL commands used in the project:
          CategoryName VARCHAR(100) NOT NULL
      );
      ```
+     <img src="Screenshot (143).png">
 
    - **MembershipTypes Table**
      ```sql
@@ -70,7 +71,7 @@ Here are some key SQL commands used in the project:
          BorrowPeriod INT NOT NULL
      );
      ```
-
+     <img src="Screenshot (144).png">
    - **Books Table**
      ```sql
      CREATE TABLE Books (
@@ -86,7 +87,7 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (CategoryID) REFERENCES BookCategories(CategoryID)
      );
      ```
-
+    <img src="Screenshot (145).png">
    - **Members Table**
      ```sql
      CREATE TABLE Members (
@@ -101,7 +102,7 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (MembershipTypeID) REFERENCES MembershipTypes(MembershipTypeID)
      );
      ```
-
+      <img src="Screenshot (146).png">
    - **Transactions Table**
      ```sql
      CREATE TABLE Transactions (
@@ -116,6 +117,7 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (MemberID) REFERENCES Members(MemberID)
      );
      ```
+     <img src="Screenshot (147).png">
 
 ### **Contact Information**
 
