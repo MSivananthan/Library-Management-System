@@ -87,7 +87,7 @@ Here are some key SQL commands used in the project:
          FOREIGN KEY (CategoryID) REFERENCES BookCategories(CategoryID)
      );
      ```
-    <img src="Screenshot (145).png">
+     <img src="Screenshot (145).png">
    - **Members Table**
      ```sql
      CREATE TABLE Members (
