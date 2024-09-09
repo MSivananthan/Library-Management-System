@@ -1,15 +1,3 @@
-Name      : M Sivananthan 
-<BR>
-Company: CODTECH IT SOLUTIONS
-<BR>
-Intern ID : CT08DS6401
-<BR>
-Domain  : SQL
-<BR>
-Duration: Augest to September 2024
-<BR>
-Mentor : Muzammil Ahmed
-
 ## Library Management System
 
 Welcome to the **Library Management System (LMS)** repository! This project is designed to facilitate the efficient management of a library's book inventory, member records, and borrow/return transactions. It aims to provide a practical learning experience in SQL commands, database design principles, and data manipulation techniques.
